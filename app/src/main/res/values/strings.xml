@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">DeviceSecurityVerifier</string>
+    <string name="app_name">Verificador de Segurança</string>
+    <string name="service_description">Proteção contra fraudes e acessos não autorizados.</string>
 </resources>

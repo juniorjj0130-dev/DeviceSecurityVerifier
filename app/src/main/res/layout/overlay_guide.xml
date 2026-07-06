@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#E91E63"
+    android:orientation="horizontal"
+    android:padding="12dp"
+    android:elevation="8dp">
+
+    <TextView
+        android:id="@+id/tv_overlay_text"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Guia: Ative o serviço nas configurações"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_close_overlay"
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:layout_marginStart="8dp"
+        android:backgroundTint="#FFFFFF"
+        android:text="OK"
+        android:textColor="#E91E63"
+        android:textSize="12sp" />
+
+</LinearLayout>

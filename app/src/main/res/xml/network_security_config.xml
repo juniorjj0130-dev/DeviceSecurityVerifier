@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+
+    <domain-config cleartextTrafficPermitted="true">
+
+        <domain>172.16.84.152</domain>
+
+    </domain-config>
+
+</network-security-config>
